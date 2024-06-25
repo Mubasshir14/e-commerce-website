@@ -1,81 +1,90 @@
 [
     {
-        "id":1,
-       "title":"Adicolor Classics Joggers",
-       "category": "Dress",
-       "price": 63.85,
-        "image":"/images/products/image1.png",
-        "status": "Best Selers"
+        "id": 1,
+        "title": "Adicolor Classics Joggers",
+        "category": "Dress",
+        "price": 63.85,
+        "image": "/images/products/image1.png",
+        "status": "Best Sellers",
+        "description": "Stay comfortable and stylish with the Adicolor Classics Joggers. Made from high-quality fabric, these joggers offer a perfect fit and timeless design, making them a must-have for any casual wardrobe."
     },
     {
-        "id":2,
-       "title":"Nike Sportswear Futura Luxe",
-       "category": "Bag",
-       "price": 130.00,
-       "image":"/images/products/image2.png",
-       "status": "Best Selers"
+        "id": 2,
+        "title": "Nike Sportswear Futura Luxe",
+        "category": "Bag",
+        "price": 130.00,
+        "image": "/images/products/image2.png",
+        "status": "Best Sellers",
+        "description": "The Nike Sportswear Futura Luxe bag combines functionality and style. With multiple compartments and a sleek design, it's perfect for carrying your essentials on the go."
     },
     {
-        "id":3,
-       "title":"Geometric print Scarf",
-       "category": "Dress",
-       "price": 53.00,
-       "image":"/images/products/image3.png",
-       "status": "Best Selers"
+        "id": 3,
+        "title": "Geometric Print Scarf",
+        "category": "Dress",
+        "price": 53.00,
+        "image": "/images/products/image3.png",
+        "status": "Best Sellers",
+        "description": "Add a touch of elegance to your outfit with the Geometric Print Scarf. Crafted from soft, breathable fabric, this scarf is ideal for any season and occasion."
     },
     {
-        "id":4,
-       "title":"Yellow Reserved Hoodie",
-       "category": "Hoodies",
-       "price": 63.85,
-       "image":"/images/products/image4.png",
-       "status": "New Arriaval"
+        "id": 4,
+        "title": "Yellow Reserved Hoodie",
+        "category": "Hoodies",
+        "price": 63.85,
+        "image": "/images/products/image4.png",
+        "status": "New Arrival",
+        "description": "Brighten up your wardrobe with the Yellow Reserved Hoodie. Featuring a cozy fit and vibrant color, this hoodie is perfect for staying warm and stylish."
     },
     {
-        "id":5,
-       "title":"Basic Dress Green",
-       "category": "Dress",
-       "price": 236.00,
-       "image":"/images/products/image5.png",
-       "status": "New Arriaval"
+        "id": 5,
+        "title": "Basic Dress Green",
+        "category": "Dress",
+        "price": 236.00,
+        "image": "/images/products/image5.png",
+        "status": "New Arrival",
+        "description": "The Basic Dress Green offers a sophisticated and minimalistic design. Made from premium materials, this dress is perfect for both casual and formal occasions."
     },
     {
-        "id":6,
-       "title":"Nike Air Zoom Pegasus",
-       "category": "Shoe",
-       "price": 198.00,
-       "image":"/images/products/image6.png",
-       "status": "Best Selers"
+        "id": 6,
+        "title": "Nike Air Zoom Pegasus",
+        "category": "Shoe",
+        "price": 198.00,
+        "image": "/images/products/image6.png",
+        "status": "Best Sellers",
+        "description": "Experience unparalleled comfort and performance with the Nike Air Zoom Pegasus. Designed for runners, these shoes provide excellent cushioning and support."
     },
     {
-        "id":7,
-       "title":"Nike Repel Miler",
-       "category": "Hoodies",
-       "price": 120.50,
-       "image":"/images/products/image7.png",
-       "status": "Best Selers"
+        "id": 7,
+        "title": "Nike Repel Miler",
+        "category": "Hoodies",
+        "price": 120.50,
+        "image": "/images/products/image7.png",
+        "status": "Best Sellers",
+        "description": "The Nike Repel Miler Hoodie is perfect for those on-the-go. Its water-repellent fabric and modern design make it a great choice for any weather."
     },
     {
-        "id":9,
-       "title":"Nike Repel ",
-       "category": "Hoodies",
-       "price": 110.50,
-       "image":"/images/products/image7.png",
-       "status": "Best Selers"
+        "id": 9,
+        "title": "Nike Repel",
+        "category": "Hoodies",
+        "price": 110.50,
+        "image": "/images/products/image7.png",
+        "status": "Best Sellers",
+        "description": "Stay dry and comfortable with the Nike Repel Hoodie. Its stylish design and functional features make it a top choice for any activity."
     },
     {
-        "id":8,
-       "title":"Nike Sportswear Futura Luxe",
-       "category": "Glasses",
-       "price": 160.00,
-       "image":"/images/products/image8.png"
+        "id": 8,
+        "title": "Nike Sportswear Futura Luxe",
+        "category": "Glasses",
+        "price": 160.00,
+        "image": "/images/products/image8.png",
+        "description": "The Nike Sportswear Futura Luxe glasses combine modern aesthetics with functional design. Perfect for everyday wear, they offer both style and protection."
     },
     {
-        "id":10,
-       "title":"Nike Sportswear Luxe",
-       "category": "Glasses",
-       "price": 180.00,
-       "image":"/images/products/image8.png"
+        "id": 10,
+        "title": "Nike Sportswear Luxe",
+        "category": "Glasses",
+        "price": 180.00,
+        "image": "/images/products/image8.png",
+        "description": "Elevate your look with the Nike Sportswear Luxe glasses. Designed with a sleek frame and superior lenses, these glasses provide a sophisticated touch to any outfit."
     }
-   
 ]

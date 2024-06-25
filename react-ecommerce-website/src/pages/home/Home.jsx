@@ -2,6 +2,9 @@ import React from 'react'
 import Banner from './Banner'
 import Category from './Category'
 import Product from './Product'
+import Collection from '../Collection'
+import BestSellers from './BestSellers'
+import Newsletters from './Newsletters'
 
 const Home = () => {
   return (
@@ -9,6 +12,9 @@ const Home = () => {
       <Banner/>
       <Category/>
       <Product/>
+      <Collection/>
+      <BestSellers/>
+      <Newsletters/>
     </div>
   )
 }
